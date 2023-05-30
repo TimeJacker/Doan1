@@ -1,0 +1,29 @@
+D:\winform\Do an 1\Do an 1\bin\Debug\Do an 1.exe.config
+D:\winform\Do an 1\Do an 1\bin\Debug\Do an 1.exe
+D:\winform\Do an 1\Do an 1\bin\Debug\Do an 1.pdb
+D:\winform\Do an 1\Do an 1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\winform\Do an 1\Do an 1\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.Properties.Resources.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\winform\Do an 1\Do an 1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\winform\Do an 1\Do an 1\obj\Debug\Do an 1.exe
+D:\winform\Do an 1\Do an 1\obj\Debug\Do an 1.pdb
+D:\winform\Do an 1\Do an 1\bin\Debug\BUS.dll
+D:\winform\Do an 1\Do an 1\bin\Debug\DTO.dll
+D:\winform\Do an 1\Do an 1\bin\Debug\DAL.dll
+D:\winform\Do an 1\Do an 1\bin\Debug\BUS.pdb
+D:\winform\Do an 1\Do an 1\bin\Debug\DTO.pdb
+D:\winform\Do an 1\Do an 1\bin\Debug\DAL.pdb
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.GUI_NhanVien.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\GUI.csproj.CopyComplete
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.GUI_KhachHang.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.GUI_LoaiHang.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.GUI_NhaCC.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.Main.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.GUI_Hang.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.GUI_HoaDonBan.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.GUI_HoaDonNhap.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.DangNhap.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.GUI_ChiTietDHN.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.GUI_ChiTietDHB.resources
+D:\winform\Do an 1\Do an 1\obj\Debug\Do_an_1.DangKi.resources

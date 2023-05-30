@@ -1,0 +1,9 @@
+D:\winform\Do an 1\DAL\bin\Debug\DAL.dll
+D:\winform\Do an 1\DAL\bin\Debug\DAL.pdb
+D:\winform\Do an 1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\winform\Do an 1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\winform\Do an 1\DAL\obj\Debug\DAL.dll
+D:\winform\Do an 1\DAL\obj\Debug\DAL.pdb
+D:\winform\Do an 1\DAL\bin\Debug\DTO.dll
+D:\winform\Do an 1\DAL\bin\Debug\DTO.pdb
+D:\winform\Do an 1\DAL\obj\Debug\DAL.csproj.CopyComplete
